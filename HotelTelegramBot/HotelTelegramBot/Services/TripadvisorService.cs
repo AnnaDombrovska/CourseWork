@@ -36,7 +36,8 @@ namespace HotelTelegramBot.Services
                 }
             };
 
-            try
+            try 
+            { 
                 using var response = await _httpClient.SendAsync(request);
                 response.EnsureSuccessStatusCode(); 
 

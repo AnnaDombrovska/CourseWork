@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\",
+  "WorkspaceRootPath": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\handlers\\callbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\handlers\\callbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\handlers\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\handlers\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\migrations\\20260516191114_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\migrations\\20260516191114_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\models\\apiresponses\\hotelsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\apiresponses\\hotelsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\models\\apiresponses\\locationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\apiresponses\\locationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\models\\favoritehotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\favoritehotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\services\\cachedhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\cachedhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\services\\ihotelapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\ihotelapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\services\\mockhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\mockhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\services\\tripadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\services\\tripadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\tripadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\handlers\\callbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\handlers\\callbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\handlers\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\handlers\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\migrations\\20260516191114_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\migrations\\20260516191114_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\models\\apiresponses\\hotelsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\apiresponses\\hotelsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\models\\apiresponses\\locationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\apiresponses\\locationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\models\\favoritehotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\favoritehotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\services\\cachedhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\cachedhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\services\\ihotelapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\ihotelapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\services\\mockhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\services\\mockhotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\hoteltelegrambot\\hoteltelegrambot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|e:\\uni\\programing\\coursework\\hoteltelegrambot\\hoteltelegrambot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{20B2D5DB-DE54-4856-8214-06F8AE99D440}|HotelTelegramBot\\HotelTelegramBot.csproj|solutionrelative:hoteltelegrambot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -70,197 +70,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "HotelTelegramBot\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T20:47:22.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T20:47:22.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20260516191114_InitialCreate.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\20260516191114_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\20260516191114_InitialCreate.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Migrations\\20260516191114_InitialCreate.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\20260516191114_InitialCreate.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Migrations\\20260516191114_InitialCreate.cs",
               "RelativeToolTip": "HotelTelegramBot\\Migrations\\20260516191114_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T19:11:15.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "HotelTelegramBot\\Services\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "HotelTelegramBot\\Services\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T19:04:25.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FavoriteHotel.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\FavoriteHotel.cs",
-              "RelativeDocumentMoniker": "HotelTelegramBot\\Models\\FavoriteHotel.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\FavoriteHotel.cs",
-              "RelativeToolTip": "HotelTelegramBot\\Models\\FavoriteHotel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T19:03:11.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T19:11:15.491Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HotelTelegramBot\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HotelTelegramBot\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T19:04:25.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoriteHotel.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\FavoriteHotel.cs",
+              "RelativeDocumentMoniker": "HotelTelegramBot\\Models\\FavoriteHotel.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\FavoriteHotel.cs",
+              "RelativeToolTip": "HotelTelegramBot\\Models\\FavoriteHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T19:03:11.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CachedHotelService.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\CachedHotelService.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\CachedHotelService.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Services\\CachedHotelService.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\CachedHotelService.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\CachedHotelService.cs",
               "RelativeToolTip": "HotelTelegramBot\\Services\\CachedHotelService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T16:49:26.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MockHotelService.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\MockHotelService.cs",
-              "RelativeDocumentMoniker": "HotelTelegramBot\\Services\\MockHotelService.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\MockHotelService.cs",
-              "RelativeToolTip": "HotelTelegramBot\\Services\\MockHotelService.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T13:08:17.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HotelSearchResponse.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
-              "RelativeDocumentMoniker": "HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
-              "RelativeToolTip": "HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T10:31:15.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T16:49:26.902Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MockHotelService.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\MockHotelService.cs",
+              "RelativeDocumentMoniker": "HotelTelegramBot\\Services\\MockHotelService.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\MockHotelService.cs",
+              "RelativeToolTip": "HotelTelegramBot\\Services\\MockHotelService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T13:08:17.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelSearchResponse.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
+              "RelativeDocumentMoniker": "HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
+              "RelativeToolTip": "HotelTelegramBot\\Models\\ApiResponses\\HotelSearchResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:31:15.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TripadvisorService.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\TripadvisorService.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\TripadvisorService.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Services\\TripadvisorService.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\TripadvisorService.cs",
-              "RelativeToolTip": "HotelTelegramBot\\Services\\TripadvisorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\TripadvisorService.cs*",
+              "RelativeToolTip": "HotelTelegramBot\\Services\\TripadvisorService.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T20:34:01.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Hotel.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\Hotel.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\Hotel.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Models\\Hotel.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\Hotel.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\Hotel.cs",
               "RelativeToolTip": "HotelTelegramBot\\Models\\Hotel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T20:32:20.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T20:32:20.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LocationResponse.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\LocationResponse.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\LocationResponse.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Models\\ApiResponses\\LocationResponse.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\LocationResponse.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Models\\ApiResponses\\LocationResponse.cs",
               "RelativeToolTip": "HotelTelegramBot\\Models\\ApiResponses\\LocationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T08:20:19.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T08:20:19.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IHotelApiService.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\IHotelApiService.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\IHotelApiService.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Services\\IHotelApiService.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Services\\IHotelApiService.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Services\\IHotelApiService.cs",
               "RelativeToolTip": "HotelTelegramBot\\Services\\IHotelApiService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T20:33:47.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T20:33:47.704Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Program.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Program.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Program.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Program.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Program.cs",
               "RelativeToolTip": "HotelTelegramBot\\Program.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T20:27:36.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T20:27:36.171Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\appsettings.json",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\appsettings.json",
               "RelativeDocumentMoniker": "HotelTelegramBot\\appsettings.json",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\appsettings.json",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\appsettings.json",
               "RelativeToolTip": "HotelTelegramBot\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-19T20:37:35.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T20:37:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "HotelTelegramBot\\Handlers\\MessageHandler.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\MessageHandler.cs",
+              "RelativeToolTip": "HotelTelegramBot\\Handlers\\MessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T20:34:44.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MessageHandler.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\MessageHandler.cs",
-              "RelativeDocumentMoniker": "HotelTelegramBot\\Handlers\\MessageHandler.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\MessageHandler.cs",
-              "RelativeToolTip": "HotelTelegramBot\\Handlers\\MessageHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T20:34:44.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CallbackHandler.cs",
-              "DocumentMoniker": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\CallbackHandler.cs",
+              "DocumentMoniker": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\CallbackHandler.cs",
               "RelativeDocumentMoniker": "HotelTelegramBot\\Handlers\\CallbackHandler.cs",
-              "ToolTip": "E:\\Uni\\Programing\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0430 \u0440\u0435\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\CallbackHandler.cs",
+              "ToolTip": "E:\\Uni\\Programing\\CourseWork\\HotelTelegramBot\\HotelTelegramBot\\Handlers\\CallbackHandler.cs",
               "RelativeToolTip": "HotelTelegramBot\\Handlers\\CallbackHandler.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
